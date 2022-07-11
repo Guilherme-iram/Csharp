@@ -1,0 +1,15 @@
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\bin\Debug\net6.0\repeticao.exe
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\bin\Debug\net6.0\repeticao.deps.json
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\bin\Debug\net6.0\repeticao.runtimeconfig.json
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\bin\Debug\net6.0\repeticao.dll
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\bin\Debug\net6.0\repeticao.pdb
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.csproj.AssemblyReference.cache
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.AssemblyInfoInputs.cache
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.AssemblyInfo.cs
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.csproj.CoreCompileInputs.cache
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.dll
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\refint\repeticao.dll
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.pdb
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\repeticao.genruntimeconfig.cache
+C:\pc-workspace\cursos\alura\C#_fundamentos\repeticao\obj\Debug\net6.0\ref\repeticao.dll
