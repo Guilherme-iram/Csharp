@@ -1,5 +1,5 @@
-C#_POO
 .vscode
+.vs
 teste
 C#_fundamentos\condicionais\bin
 C#_fundamentos\condicionais\obj
@@ -9,3 +9,6 @@ C#_fundamentos\texto\bin
 C#_fundamentos\texto\obj
 C#_fundamentos\variaveisNumericas\bin
 C#_fundamentos\variaveisNumericas\obj
+C#_POO\contaCorrente\bin
+C#_POO\contaCorrente\obj
+C#_POO\mercado
